@@ -14,7 +14,8 @@ module.exports = {
         },
     },
     variants: {
-        padding: ['responsive', 'hover']
+        padding: ['responsive', 'hover'],
+        borderWidth: ['responsive', 'hover'],
     },
     plugins: [],
 }
