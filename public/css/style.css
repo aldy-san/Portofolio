@@ -33197,6 +33197,10 @@ video {
           animation: bounce 1s infinite;
 }
 
+*{
+  scroll-behavior: smooth;
+}
+
 html{
   font-family: 'Lato', sans-serif;
 }
@@ -33287,7 +33291,7 @@ html{
 @-webkit-keyframes animate{
   0%{
     transform: translateY(0) rotate(0deg);
-    opacity: 0.8;
+    opacity: 0.7;
     border-radius: 0;
   }
 
@@ -33301,7 +33305,7 @@ html{
 @keyframes animate{
   0%{
     transform: translateY(0) rotate(0deg);
-    opacity: 0.8;
+    opacity: 0.7;
     border-radius: 0;
   }
 
