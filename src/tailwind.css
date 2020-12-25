@@ -77,3 +77,250 @@ html{
         border-radius: 50%;
     }
 }
+
+.interest::before{
+    content: '|\00a0\00a0';
+    animation: tulis 12s linear infinite;
+}
+@keyframes tulis{
+    0%{
+        content: 'W';
+    }
+    1%{
+        content: 'We';
+    }
+    2%{
+        content: 'Web';
+    }
+    3%{
+        content: 'Web ';
+    }
+    4%{
+        content: 'Web D';
+    }
+    5%{
+        content: 'Web De';
+    }
+    6%{
+        content: 'Web Dev';
+    }
+    7%{
+        content: 'Web Deve';
+    }
+    8%{
+        content: 'Web Devel';
+    }
+    9%{
+        content: 'Web Develo';
+    }
+    10%{
+        content: 'Web Develop';
+    }
+    11%{
+        content: 'Web Developm';
+    }
+    12%{
+        content: 'Web Developme';
+    }
+    13%{
+        content: 'Web Developmen';
+    }
+    14%{
+        content: 'Web Development';
+    }
+    15%{
+        content: 'Web Developmen';
+    }
+    16%{
+        content: 'Web Developme';
+    }
+    17%{
+        content: 'Web Developm';
+    }
+    18%{
+        content: 'Web Develop';
+    }
+    19%{
+        content: 'Web Devel';
+    }
+    20%{
+        content: 'Web Deve';
+    }
+    21%{
+        content: 'Web Dev';
+    }
+    22%{
+        content: 'Web De';
+    }
+    23%{
+        content: 'Web D';
+    }
+    24%{
+        content: 'Web ';
+    }
+    25%{
+        content: 'We';
+    }
+    26%{
+        content: 'W';
+    }
+    27%{
+        content: '|\00a0\00a0';
+    }
+    28%{
+        content: 'G';
+    }
+    29%{
+        content: 'Ga';
+    }
+    30%{
+        content: 'Gam';
+    }
+    31%{
+        content: 'Game';
+    }
+    32%{
+        content: 'Game ';
+    }
+    33%{
+        content: 'Game D';
+    }
+    34%{
+        content: 'Game De';
+    }
+    35%{
+        content: 'Game Dev';
+    }
+    36%{
+        content: 'Game Deve';
+    }
+    37%{
+        content: 'Game Devel';
+    }
+    38%{
+        content: 'Game Develo';
+    }
+    39%{
+        content: 'Game Develop';
+    }
+    40%{
+        content: 'Game Developm';
+    }
+    41%{
+        content: 'Game Developme';
+    }
+    42%{
+        content: 'Game Developmen';
+    }
+    43%{
+        content: 'Game Development';
+    }
+    45%{
+        content: 'Game Developmen';
+    }
+    46%{
+        content: 'Game Developme';
+    }
+    47%{
+        content: 'Game Developm';
+    }
+    48%{
+        content: 'Game Develop';
+    }
+    49%{
+        content: 'Game Develo';
+    }
+    50%{
+        content: 'Game Devel';
+    }
+    51%{
+        content: 'Game Deve';
+    }
+    52%{
+        content: 'Game Dev';
+    }
+    53%{
+        content: 'Game De';
+    }
+    54%{
+        content: 'Game D';
+    }
+    56%{
+        content: 'Game ';
+    }
+    58%{
+        content: 'Game';
+    }
+    59%{
+        content: 'Gam';
+    }
+    60%{
+        content: 'Ga';
+    }
+    61%{
+        content: 'G';
+    }
+    62%{
+        content: '|\00a0\00a0';
+    }
+    64%{
+        content: 'A';
+    }
+    66%{
+        content: 'An';
+    }
+    68%{
+        content: 'Ani';
+    }
+    70%{
+        content: 'Anim';
+    }
+    72%{
+        content: 'Anime';
+    }
+    74%{
+        content: 'Anim';
+    }
+    76%{
+        content: 'Ani';
+    }
+    78%{
+        content: 'An';
+    }
+    80%{
+        content: 'A';
+    }
+    82%{
+        content: '|\00a0\00a0';
+    }
+    84%{
+        content: 'M';
+    }
+    86%{
+        content: 'Ma';
+    }
+    88%{
+        content: 'Man';
+    }
+    89%{
+        content: 'Mang';
+    }
+    90%{
+        content: 'Manga';
+    }
+    92%{
+        content: 'Mang';
+    }
+    94%{
+        content: 'Man';
+    }
+    96%{
+        content: 'Ma';
+    }
+    98%{
+        content: 'M';
+    }
+    100%{
+        content: '|\00a0\00a0';
+    }
+}
