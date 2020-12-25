@@ -974,6 +974,10 @@ video {
   width: 12rem;
 }
 
+.w-auto {
+  width: auto;
+}
+
 .w-9\/12 {
   width: 75%;
 }
