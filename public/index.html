@@ -27,7 +27,7 @@
         <ul class="flex items-center">
             <li
                 class="group mx-5 my-4 text-xl transition-all duration-150 border-b-2 border-primary hover:border-secondary">
-                <a onclick="scrollToTop()" class="cursor-pointer group-hover:text-primary transition duration-300">About
+                <a href="#" class="group-hover:text-primary transition duration-300">About
                     Me</a>
             </li>
             <li
@@ -338,7 +338,6 @@
         var header = $(".nav");
         $(window).scroll(function (event) {
             var scroll = $(window).scrollTop();
-            console.log(scroll);
             if (scroll >= 50) {
                 header.addClass("border-primary").addClass("border-b-2").addClass("bg-light");
             } else {
@@ -348,9 +347,6 @@
             }
         });
     });
-    function scrollToTop() {
-        window.scrollTo(0, 0);
-    }
 </script>
 
 </html>
